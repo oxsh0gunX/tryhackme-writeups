@@ -67,20 +67,3 @@ The flag is hidden in this public write-up.
 THM{FAKE_FLAG}
 ```
 
-*This is a placeholder, not the actual flag.*
-
-## What I Learned
-
-- How to inspect JavaScript using browser DevTools.
-- How the frontend sends messages to a backend endpoint.
-- How to test an LLM for prompt injection.
-- How an AI assistant can disclose sensitive information despite its instructions.
-- Why secrets should not be exposed to an LLM unnecessarily.
-
-## Conclusion
-
-The main lesson from this room is that telling an AI not to reveal secrets isn't enough to guarantee security.
-
-Sensitive information should be protected through proper access controls and secure application design, rather than relying only on the model's instructions.
-
-Room completed. Time to move on to the next challenge.
